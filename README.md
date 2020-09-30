@@ -1,6 +1,8 @@
 # Android-Section-RecyclerView-Demo
 An Android Repository depicting how to use section-based recycler view with inbuilt classes.
 
+<img src=https://github.com/Afsar7977/Android-Section-RecyclerView-Demo/blob/master/Screenshots/SectionRecycler.png>
+
 Often we are tasked with building applications which showcase multi-layer information in stacks or we can say section.
 In Android world it is very helpful to show more data in concise space and user-friendly way. But for that we have to use 
 basically recycler-view with headers(section).
